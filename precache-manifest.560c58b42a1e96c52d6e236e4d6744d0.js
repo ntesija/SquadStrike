@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/SquadStrike/static/js/runtime~main.3b5b3682.js"
   },
   {
-    "revision": "0844bd5dfa54a5ed9be5",
-    "url": "/SquadStrike/static/js/main.0844bd5d.chunk.js"
+    "revision": "9bd7a4f259f2fd4f987c",
+    "url": "/SquadStrike/static/js/main.9bd7a4f2.chunk.js"
   },
   {
     "revision": "07140812a98c93f90dd2",
     "url": "/SquadStrike/static/js/1.07140812.chunk.js"
   },
   {
-    "revision": "0844bd5dfa54a5ed9be5",
+    "revision": "9bd7a4f259f2fd4f987c",
     "url": "/SquadStrike/static/css/main.0616cb42.chunk.css"
   },
   {
-    "revision": "44471ace737e7dd1337ddd757f67d709",
+    "revision": "7bbc623c1382020fe3b2f2641b183761",
     "url": "/SquadStrike/index.html"
   }
 ];
