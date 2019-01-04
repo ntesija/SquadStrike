@@ -1,13 +1,13 @@
 {
-  "main.css": "/SquadStrike/static/css/main.0616cb42.chunk.css",
-  "main.js": "/SquadStrike/static/js/main.9bd7a4f2.chunk.js",
-  "main.js.map": "/SquadStrike/static/js/main.9bd7a4f2.chunk.js.map",
+  "main.css": "/SquadStrike/static/css/main.7e7738a7.chunk.css",
+  "main.js": "/SquadStrike/static/js/main.382d943e.chunk.js",
+  "main.js.map": "/SquadStrike/static/js/main.382d943e.chunk.js.map",
   "static/js/1.07140812.chunk.js": "/SquadStrike/static/js/1.07140812.chunk.js",
   "static/js/1.07140812.chunk.js.map": "/SquadStrike/static/js/1.07140812.chunk.js.map",
   "runtime~main.js": "/SquadStrike/static/js/runtime~main.3b5b3682.js",
   "runtime~main.js.map": "/SquadStrike/static/js/runtime~main.3b5b3682.js.map",
-  "static/css/main.0616cb42.chunk.css.map": "/SquadStrike/static/css/main.0616cb42.chunk.css.map",
+  "static/css/main.7e7738a7.chunk.css.map": "/SquadStrike/static/css/main.7e7738a7.chunk.css.map",
   "index.html": "/SquadStrike/index.html",
-  "precache-manifest.560c58b42a1e96c52d6e236e4d6744d0.js": "/SquadStrike/precache-manifest.560c58b42a1e96c52d6e236e4d6744d0.js",
+  "precache-manifest.dc06760ab85f252a1c948639f4b78393.js": "/SquadStrike/precache-manifest.dc06760ab85f252a1c948639f4b78393.js",
   "service-worker.js": "/SquadStrike/service-worker.js"
 }
