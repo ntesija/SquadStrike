@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SquadStrike/precache-manifest.194c77fd6fbda51375bad8d91b418919.js"
+  "/SquadStrike/precache-manifest.c75412c8f8757aad10e86550273b4e73.js"
 );
 
 workbox.clientsClaim();
