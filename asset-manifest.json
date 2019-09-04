@@ -1,13 +1,15 @@
 {
-  "main.css": "/SquadStrike/static/css/main.16fc10b2.chunk.css",
-  "main.js": "/SquadStrike/static/js/main.d1d5fd10.chunk.js",
-  "main.js.map": "/SquadStrike/static/js/main.d1d5fd10.chunk.js.map",
-  "static/js/1.fbfa9ac1.chunk.js": "/SquadStrike/static/js/1.fbfa9ac1.chunk.js",
-  "static/js/1.fbfa9ac1.chunk.js.map": "/SquadStrike/static/js/1.fbfa9ac1.chunk.js.map",
-  "runtime~main.js": "/SquadStrike/static/js/runtime~main.3b5b3682.js",
-  "runtime~main.js.map": "/SquadStrike/static/js/runtime~main.3b5b3682.js.map",
-  "static/css/main.16fc10b2.chunk.css.map": "/SquadStrike/static/css/main.16fc10b2.chunk.css.map",
-  "index.html": "/SquadStrike/index.html",
-  "precache-manifest.c75412c8f8757aad10e86550273b4e73.js": "/SquadStrike/precache-manifest.c75412c8f8757aad10e86550273b4e73.js",
-  "service-worker.js": "/SquadStrike/service-worker.js"
+  "files": {
+    "main.css": "/SquadStrike/static/css/main.b6b1e826.chunk.css",
+    "main.js": "/SquadStrike/static/js/main.e9b32d69.chunk.js",
+    "main.js.map": "/SquadStrike/static/js/main.e9b32d69.chunk.js.map",
+    "runtime~main.js": "/SquadStrike/static/js/runtime~main.335a2b3d.js",
+    "runtime~main.js.map": "/SquadStrike/static/js/runtime~main.335a2b3d.js.map",
+    "static/js/2.0e475d7d.chunk.js": "/SquadStrike/static/js/2.0e475d7d.chunk.js",
+    "static/js/2.0e475d7d.chunk.js.map": "/SquadStrike/static/js/2.0e475d7d.chunk.js.map",
+    "index.html": "/SquadStrike/index.html",
+    "precache-manifest.e74e959754eb32fe67e5738159772efc.js": "/SquadStrike/precache-manifest.e74e959754eb32fe67e5738159772efc.js",
+    "service-worker.js": "/SquadStrike/service-worker.js",
+    "static/css/main.b6b1e826.chunk.css.map": "/SquadStrike/static/css/main.b6b1e826.chunk.css.map"
+  }
 }
